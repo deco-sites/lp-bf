@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/lp-bf/": "./",
+
     "deco-sites/blackfriday-lp/": "./",
 
     "$store/": "./",
